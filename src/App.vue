@@ -3,7 +3,7 @@
     <p class="nav_title">Fiters</p>
     <div class="nav_links">
       <ul class="nav_links-list">
-        <li class="nav_singlelink">ProjectsList</li> 
+        <li class="nav_singlelink">Lists</li> 
         <li class="nav_singlelink">Help</li>
       </ul>
       <div class="nav_photo"></div>
