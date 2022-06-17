@@ -1,6 +1,6 @@
 <template>
   <nav class="nav"> 
-    <p class="nav_title">Fiters</p>
+    <p class="nav_title">Fiters TODO</p>
     <div class="nav_links">
       <ul class="nav_links-list">
         <li class="nav_singlelink">Lists</li> 
